@@ -1,11 +1,8 @@
 div {
     font-weight: 700;
 }
-.shahmeer{
+.shahmeer .shahzaib{
     color:blueviolet
-}
-.shahzaib{
-    color:turquoise
 }
 
 
@@ -14,3 +11,11 @@ div {
     color:chocolate
 }
 
+.jiffy{
+    font-weight: 1000;
+    color: red
+}
+
+.silly#willy{
+    color:cadetblue;
+}
