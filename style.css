@@ -8,11 +8,9 @@ div {
     color:turquoise
 }
 
-#title{
-    color: red ;
-}
 
-#newtitle{
+
+#title, #newtitle{
     color:chocolate
 }
 
