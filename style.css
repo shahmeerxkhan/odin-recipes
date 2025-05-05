@@ -1,6 +1,4 @@
-div {
-    font-weight: 700;
-}
+
 .shahmeer .shahzaib{
     color:blueviolet
 }
@@ -18,4 +16,18 @@ div {
 
 .silly#willy{
     color:cadetblue;
+}
+
+.tom .jerry.jones{
+    color:yellowgreen
+}
+
+#c{
+    background-color: green;
+    color: red;
+}
+
+.a #c{
+    background-color: blue;
+    color: orange;
 }
